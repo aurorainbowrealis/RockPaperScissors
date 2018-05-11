@@ -8,4 +8,4 @@ This is developed targeting begginer programmers that want to understand the bas
 
 To accompany this repository there is a quick video with annotations where you can watch me programming it.
 
-Link to the video: https://youtu.be/Blc72M6ESaY
+Link to the video: https://www.youtube.com/watch?v=mOp_-WADMXU
